@@ -117,7 +117,7 @@
       <!--easypoi验证的jar包-->
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-validator</artifactId>
-      <version>5.2.4.Final</version>
+      <version>5.3.5.Final</version>
     </dependency>
     <!-- SpringData的支持包 -->
     <dependency>
